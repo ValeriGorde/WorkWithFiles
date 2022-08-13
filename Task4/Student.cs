@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace FinalTask
+namespace Task4
 {
     [Serializable]
     internal class Student
